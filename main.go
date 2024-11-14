@@ -1,6 +1,3 @@
-* Licensed under the Apache License, Version 2.0 (the "License");
-steps:
-apiVersion: apps/v1
 /**
  * Copyright 2023 Google Inc.
  *
